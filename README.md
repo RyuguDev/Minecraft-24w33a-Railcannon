@@ -1,6 +1,8 @@
 # Minecraft-24w33a-Railcannon
 A Minecraft Railcannon for the Snapshot 24w33a using Minecarts
 
+The books on how to use are in the chest
+
 > **Copyright**
 > 
 > This software is copyright (c) 2024 FelixFoxxy.
